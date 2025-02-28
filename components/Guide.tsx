@@ -13,8 +13,8 @@ const Guide = () => {
             Guide You to Easy Path
           </h2>
           <p className="regular-16 text-gray-30 xl:max-w-[520px]">
-            Only with the hilink application you will no longer get lost and get
-            lost again, because we already support offline maps when there is no
+            Only with this application you will no longer get lost and get lost
+            again, because we already support offline maps when there is no
             internet connection in the field. Invite your friends, relatives and
             friends to have fun in the wilderness through the valley and reach
             the top of the mountain
@@ -38,14 +38,14 @@ const Guide = () => {
                 <p className="regulat-16 text-gray-20">Destination</p>
                 <p className="bold-16 text-green-50">48 min</p>
               </div>
-              <p className="bold-20 mt-2">Aguas Calinentes</p>
+              <p className="bold-20 mt-2">
+                Reeth, Yorkshire Dales National Park
+              </p>
             </div>
 
             <div className="flex w-full flex-col">
               <p className="regulat-16 text-gray-20">Start track</p>
-              <h4 className="bold-20 mt-2 whitespace-nowrap">
-                Wonorejo Pasuran
-              </h4>
+              <h4 className="bold-20 mt-2 whitespace-nowrap">London</h4>
             </div>
           </div>
         </div>
