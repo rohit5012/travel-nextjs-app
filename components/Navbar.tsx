@@ -5,9 +5,9 @@ import Button from "./Button";
 
 const Navbar = () => {
   return (
-    <nav className="border-2 border-red-50 flex items-center justify-between py-5 relative">
+    <nav className="border-2 border-red-50 flex items-center justify-around py-5 relative">
       <Link href="/">
-        <Image src="/hilink-logo.svg" alt="logo" width={74} height={29} />
+        <Image src="/wild.png" alt="logo" width={140} height={50} />
       </Link>
       <ul className="hidden gap-12 lg:flex">
         {NAV_LINKS.map((link) => (
